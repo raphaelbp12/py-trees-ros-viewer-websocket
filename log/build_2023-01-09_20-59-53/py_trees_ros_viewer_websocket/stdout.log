@@ -1,0 +1,14 @@
+running develop
+running egg_info
+writing py_trees_ros_viewer_websocket.egg-info/PKG-INFO
+writing dependency_links to py_trees_ros_viewer_websocket.egg-info/dependency_links.txt
+writing entry points to py_trees_ros_viewer_websocket.egg-info/entry_points.txt
+writing top-level names to py_trees_ros_viewer_websocket.egg-info/top_level.txt
+reading manifest file 'py_trees_ros_viewer_websocket.egg-info/SOURCES.txt'
+writing manifest file 'py_trees_ros_viewer_websocket.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/rbp/seasony/lewis/src/pytrees/py-trees-ros-viewer-websocket/install/py_trees_ros_viewer_websocket/lib/python3.10/site-packages/py-trees-ros-viewer-websocket.egg-link (link to .)
+Installing py-trees-tree-viewer-websocket script to /home/rbp/seasony/lewis/src/pytrees/py-trees-ros-viewer-websocket/install/py_trees_ros_viewer_websocket/bin
+
+Installed /home/rbp/seasony/lewis/src/pytrees/py-trees-ros-viewer-websocket/build/py_trees_ros_viewer_websocket
+running install_data

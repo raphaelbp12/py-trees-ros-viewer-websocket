@@ -1,0 +1,31 @@
+[1.271s] Invoking command in '/home/rbp/seasony/lewis/src/pytrees/py-trees-ros-viewer-websocket/build/py_trees_ros_viewer_websocket': PYTHONPATH=/home/rbp/seasony/lewis/src/pytrees/py-trees-ros-viewer-websocket/build/py_trees_ros_viewer_websocket/prefix_override:/home/rbp/seasony/lewis/src/pytrees/py-trees-ros-viewer-websocket/install/py_trees_ros_viewer_websocket/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/rbp/seasony/lewis/src/pytrees/py-trees-ros-viewer-websocket/build/py_trees_ros_viewer_websocket/build --no-deps install_data
+[1.320s] /home/rbp/seasony/lewis/src/pytrees/py-trees-ros-viewer-websocket/build/py_trees_ros_viewer_websocket/setup.py:5: DeprecationWarning: The distutils package is deprecated and slated for removal in Python 3.12. Use setuptools or check PEP 632 for potential alternatives
+[1.320s]   from distutils import log
+[1.662s] running develop
+[1.663s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.663s]   warnings.warn(
+[1.664s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.664s]   warnings.warn(
+[1.717s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.16.0-unknown is an invalid version and will not be supported in a future release
+[1.718s]   warnings.warn(
+[1.718s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.1build1 is an invalid version and will not be supported in a future release
+[1.718s]   warnings.warn(
+[1.718s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 0.1.43ubuntu1 is an invalid version and will not be supported in a future release
+[1.718s]   warnings.warn(
+[1.896s] running egg_info
+[1.896s] creating py_trees_ros_viewer_websocket.egg-info
+[1.899s] writing py_trees_ros_viewer_websocket.egg-info/PKG-INFO
+[1.899s] writing dependency_links to py_trees_ros_viewer_websocket.egg-info/dependency_links.txt
+[1.899s] writing entry points to py_trees_ros_viewer_websocket.egg-info/entry_points.txt
+[1.900s] writing top-level names to py_trees_ros_viewer_websocket.egg-info/top_level.txt
+[1.902s] writing manifest file 'py_trees_ros_viewer_websocket.egg-info/SOURCES.txt'
+[1.904s] reading manifest file 'py_trees_ros_viewer_websocket.egg-info/SOURCES.txt'
+[1.905s] writing manifest file 'py_trees_ros_viewer_websocket.egg-info/SOURCES.txt'
+[1.910s] running build_ext
+[1.911s] Creating /home/rbp/seasony/lewis/src/pytrees/py-trees-ros-viewer-websocket/install/py_trees_ros_viewer_websocket/lib/python3.10/site-packages/py-trees-ros-viewer-websocket.egg-link (link to .)
+[1.914s] Installing py-trees-ros-viewer-websocket script to /home/rbp/seasony/lewis/src/pytrees/py-trees-ros-viewer-websocket/install/py_trees_ros_viewer_websocket/bin
+[1.914s] 
+[1.914s] Installed /home/rbp/seasony/lewis/src/pytrees/py-trees-ros-viewer-websocket/build/py_trees_ros_viewer_websocket
+[1.914s] running install_data
+[1.914s] copying package.xml -> /home/rbp/seasony/lewis/src/pytrees/py-trees-ros-viewer-websocket/install/py_trees_ros_viewer_websocket/share/py_trees_ros_viewer_websocket
+[1.980s] Invoked command in '/home/rbp/seasony/lewis/src/pytrees/py-trees-ros-viewer-websocket/build/py_trees_ros_viewer_websocket' returned '0': PYTHONPATH=/home/rbp/seasony/lewis/src/pytrees/py-trees-ros-viewer-websocket/build/py_trees_ros_viewer_websocket/prefix_override:/home/rbp/seasony/lewis/src/pytrees/py-trees-ros-viewer-websocket/install/py_trees_ros_viewer_websocket/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/rbp/seasony/lewis/src/pytrees/py-trees-ros-viewer-websocket/build/py_trees_ros_viewer_websocket/build --no-deps install_data

@@ -1,0 +1,15 @@
+source;share/py_trees_ros_viewer_websocket/hook/path.ps1
+source;share/py_trees_ros_viewer_websocket/hook/path.dsv
+source;share/py_trees_ros_viewer_websocket/hook/path.sh
+source;share/py_trees_ros_viewer_websocket/hook/pythonpath.ps1
+source;share/py_trees_ros_viewer_websocket/hook/pythonpath.dsv
+source;share/py_trees_ros_viewer_websocket/hook/pythonpath.sh
+source;share/py_trees_ros_viewer_websocket/hook/pythonscriptspath.ps1
+source;share/py_trees_ros_viewer_websocket/hook/pythonscriptspath.dsv
+source;share/py_trees_ros_viewer_websocket/hook/pythonscriptspath.sh
+source;share/py_trees_ros_viewer_websocket/hook/ament_prefix_path.ps1
+source;share/py_trees_ros_viewer_websocket/hook/ament_prefix_path.dsv
+source;share/py_trees_ros_viewer_websocket/hook/ament_prefix_path.sh
+source;../../build/py_trees_ros_viewer_websocket/share/py_trees_ros_viewer_websocket/hook/pythonpath_develop.ps1
+source;../../build/py_trees_ros_viewer_websocket/share/py_trees_ros_viewer_websocket/hook/pythonpath_develop.dsv
+source;../../build/py_trees_ros_viewer_websocket/share/py_trees_ros_viewer_websocket/hook/pythonpath_develop.sh
