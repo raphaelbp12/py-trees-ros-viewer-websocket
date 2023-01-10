@@ -18,6 +18,7 @@ A qt-javascript application for viewing executing or replaying py_trees
 import threading
 
 import rclpy
+import math
 
 from . import backend as ros_backend
 from . import console
@@ -35,7 +36,7 @@ def main():
     rclpy.init()
 
     # the players
-    snapshot_period = 2.0
+    snapshot_period = math.inf
     backend = ros_backend.Backend(
         parameters=ros_backend.SnapshotStream.Parameters(
             blackboard_data=True,

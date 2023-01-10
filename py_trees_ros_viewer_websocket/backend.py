@@ -252,7 +252,7 @@ class Backend(qt_core.QObject):
         self.snapshot_stream_type = py_trees_msgs.BehaviourTree
         self.discovered_namespaces = []
         self.discovered_timestamp = time.monotonic()
-        self.discovery_loop_time_sec = 3.0
+        self.discovery_loop_time_sec = 1.0
         self.cached_blackboard = {"behaviours": {}, "data": {}}
         self.snapshot_stream = None
         self.parameters = parameters
